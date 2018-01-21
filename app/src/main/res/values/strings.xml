@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClickCounter</string>
+    <string name="action_settings">Reset</string>
+    <string name="action_about">About</string>
+    <string name="title_activity_about">About</string>
+
+    <string name="author_name">Calvin Noronha</string>
+
+</resources>
