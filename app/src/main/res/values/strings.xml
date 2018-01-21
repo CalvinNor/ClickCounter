@@ -1,9 +1,13 @@
 <resources>
     <string name="app_name">ClickCounter</string>
+
+    <string name="main_increment_text">Click!</string>
+
     <string name="action_settings">Reset</string>
     <string name="action_about">About</string>
     <string name="title_activity_about">About</string>
 
     <string name="author_name">Calvin Noronha</string>
+    <string name="author_class">T.E. Comps</string>
 
 </resources>
